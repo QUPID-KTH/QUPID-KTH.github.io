@@ -5,10 +5,9 @@ title: CV
 
 ## Personal info
 
-> Name: Taehwa Kim (Republic of Korea)
-> E-mail: aikthia@skku.edu
-> Homepage: Nothing
-
+* Name: Taehwa Kim (Republic of Korea)
+* E-mail: aikthia@skku.edu
+* Homepage: Nothing
 
 ## Education 
 * Sep. 2015 - Present. Combined M.A and Ph. D Candidate, Quantitative Psychology, Sungkyunkwan University, South Korea
