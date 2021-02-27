@@ -20,6 +20,7 @@ title: About blueface
 * 2017. Oct. Grand Prize for Research Contest, National Center for the Rights of the Child. 
 
 |
+
 ## Career(Working Experience)
 * 2011.Feb - 2012. Feb. Student Intern at KMU Saemirae Psychogical Health Research, Daegu, South Korea
 * 2012.Jul - 2012. Aug. International Student of Study Abroad Program(SAP), Algoma University, Canada
