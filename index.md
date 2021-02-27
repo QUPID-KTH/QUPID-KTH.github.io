@@ -8,8 +8,8 @@ title: Home
 ### Welcome to my Github Pages! 
   
   
-  
-Hi, I'm **Taehwa Kim**. 
+> Hi, I'm **Taehwa Kim**.   
+>
   
 ---
 
