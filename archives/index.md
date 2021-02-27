@@ -4,7 +4,7 @@ title: archives
 ---
   
   
-## Main Interests
+## **Main Interests**
 * Scale development in Personality 
 * Validity test
 * CTT(Classical test theory) ; Factor analysis 
@@ -13,7 +13,7 @@ title: archives
 * Longitudinal Data
   
   
-## Research Expersience
+## **Research Expersience**
 *  2020.Sat. - Present. Short version of Korea version IPIP-NEO-50 using IRT
 *  2019.Mar. - 2020.Sat. Short version of Korea version IPIP-NEO-120 using IRT
 *  2017.Mar. - 2019.Mar. Scale development of Korea version IPIP-NEO-300
@@ -22,7 +22,7 @@ title: archives
 *  2016.Sep. - 2016.Nom. Panel data using Logitudinal Mediation analysis
   
   
-## Presentations 
+## **Presentations** 
 * Kim, T. H., & Kwan, S. B. (2018). Development and Validation of the Korean Version of International Personality Item Pool (IPIP-NEO): Based Measure of the Five-Factor Model. 2018 ISSSM Japan.
 * Kim, T. H., & Ju, Y. S. (2018). Development and Validation of Korean Version IPIP-NEO Short Form. 2018 APS USA.
 * Kim, T. H. & Lee, G, H. (2017). The Effect of Service Assistance on School Adaptation in Local Children's Centers: Focusing on the Effect of Adjustment of Child Deficiency Index, Presented Grand Prize for Research Contest, National Center for the Rights of the Child. 
