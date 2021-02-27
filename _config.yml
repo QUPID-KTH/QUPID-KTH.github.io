@@ -6,6 +6,8 @@ url: "https://qupid-kth.github.io/"
 
 github: http://github.com/QUPID-KTH/
 highlighter: rouge
+
+# Build settings
 markdown: kramdown
 permalink: /post/:title/
 paginate: 4
@@ -19,9 +21,7 @@ navigation:
   url: /archives/
 - text: Tags
   url: /tags/
-
-# Build settings
-markdown: kramdown
+  
 sass:
   sass_dir: _sass
   style: compressed
