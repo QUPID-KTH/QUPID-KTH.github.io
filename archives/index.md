@@ -1,9 +1,8 @@
  
 ---
 layout: default
-title: CV 
+title: archives
 ---
-
 
 ## Main Interests
 * Scale development in Personality 
