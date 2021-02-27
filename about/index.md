@@ -3,16 +3,32 @@ layout: default
 title: About blueface
 ---
 
-blueface is a minimalist Jekyll theme. It is responsive, generates JSON and RSS feeds on each build, and can be easily extended. It uses your system fonts alongside Open Sans, Droid Sans and Raleway from Google Fonts. Oh, and it has support for tags too.
+## Personal info
+* Name: Taehwa Kim (Republic of Korea)
+* E-mail: aikthia@skku.edu
 
 > It supports blockquotes, too.
 
-## blueface on the Internet
+|
+## Education 
+* Sep. 2015. - Present. Combined M.A and Ph. D Candidate, Quantitative Psychology, Sungkyunkwan University, South Korea
+* Mar. 2012 - Feb. 2013. Credit Transter, Seoul National University, Seoul, South Korea.
+* Mar. 2009 - Aug. 2013. B.A. in Psychology, Social Welfare, Keimyung University, South Korea
 
-* [blueface][github] on GitHub (Source Code)
-* [nolsigan][nolsigan] nolsigan.github.io
-* [rjsteckel][rjsteckel] data, beer, and stats
+|
+## Honors and Awards  
+* 2017. Oct. Grand Prize for Research Contest, National Center for the Rights of the Child. 
 
-[github]: https://github.com/tnguyen/blueface/
-[nolsigan]: http://nolsigan.github.io
-[rjsteckel]: http://rjsteckel.github.io
+|
+## Career(Working Experience)
+* 2011.Feb - 2012. Feb. Student Intern at KMU Saemirae Psychogical Health Research, Daegu, South Korea
+* 2012.Jul - 2012. Aug. International Student of Study Abroad Program(SAP), Algoma University, Canada
+* 2013.Mar - 2014. Mar. Student Intern at KCVA(Korean Crime Victims Suppot Association, Daegu, South Korea.
+* 2017.Mar - Present: Private Tutoring for Recearch Methodology and Data Analysis
+
+|
+## Programming Skills 
+* R: Data Management, Vidualization, CTT, IRT, Factor Analysis, SEM, Multilevel analysis, Latent Growth modeling, Mixture model, Multi-group Analysis 
+* Mplus: Factor analysis(EFA, CFA efc), SEF, Multilevel modeling, Mixture Modeling, Longitudinal analysis
+* SPSS: Regression, General (Generalized) Linear Model, Mediation model, Moderated model. PROCESS macro.
+* Amos: CFA, Path model, SEM
