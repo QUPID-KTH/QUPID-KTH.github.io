@@ -4,10 +4,10 @@ title: CV
 ---
 
 ## Personal info
-* Name: Taehwa Kim (Republic of Korea)
-* E-mail: aikthia@skku.edu
 
-> It supports blockquotes, too.
+> Name: Taehwa Kim (Republic of Korea)
+> E-mail: aikthia@skku.edu
+> Homepage: Nothing
 
 
 ## Education 
