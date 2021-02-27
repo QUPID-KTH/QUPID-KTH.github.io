@@ -11,13 +11,13 @@ title: About blueface
 
 |
 ## Education 
-* Sep. 2015. - Present. Combined M.A and Ph. D Candidate, Quantitative Psychology, Sungkyunkwan University, South Korea
+* Sep. 2015 - Present. Combined M.A and Ph. D Candidate, Quantitative Psychology, Sungkyunkwan University, South Korea
 * Mar. 2012 - Feb. 2013. Credit Transter, Seoul National University, Seoul, South Korea.
 * Mar. 2009 - Aug. 2013. B.A. in Psychology, Social Welfare, Keimyung University, South Korea
 
 |
 ## Honors and Awards  
-* 2017. Oct. Grand Prize for Research Contest, National Center for the Rights of the Child. 
+* Oct. 2017. Grand Prize for Research Contest, National Center for the Rights of the Child. 
 
 |
 
