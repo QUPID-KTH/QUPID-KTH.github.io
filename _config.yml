@@ -1,9 +1,9 @@
-# Jekyll Defaults
+# Site settings
 title: Taehwa, KIM  
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
-
 url: "https://qupid-kth.github.io/"
+
 github: http://github.com/QUPID-KTH/
 highlighter: rouge
 markdown: kramdown
@@ -20,4 +20,9 @@ navigation:
 - text: Tags
   url: /tags/
 
-
+# Build settings
+markdown: kramdown
+sass:
+  sass_dir: _sass
+  style: compressed
+  
