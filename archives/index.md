@@ -20,11 +20,11 @@ title: archives
 * Kim, T. H., & Kwan, S. B. (2018). Development and Validation of the Korean Version of International Personality Item Pool (IPIP-NEO): Based Measure of the Five-Factor Model. 2018 ISSSM Japan.
 
 ## Research Expersience
-* 2016. Sep. - 2016.Nom. Panel data using Logitudinal Mediation analysis
-* 2017. Sep. - 2018. Sep. Mid-Career Researchers, National Research Roundation of Korea. 
-* 2017. Aug.   Participated in Mplus Program Workshop in Johns Hopkins University, U.S.A. 
-* 2017. Mar. - 2019. Mar. Scale development of Korea version IPIP-NEO-300
-* 2019. Mar. - 2020. Sat. Short version of Korea version IPIP-NEO-120 using IRT
-* 2020. Sat. - Present. Short version of Korea version IPIP-NEO-50 using IRT
+*  2016. Sep. - 2016.Nom. Panel data using Logitudinal Mediation analysis
+*  2017. Sep. - 2018. Sep. Mid-Career Researchers, National Research Roundation of Korea. 
+*  2017. Aug.   Participated in Mplus Program Workshop in Johns Hopkins University, U.S.A. 
+*  2017. Mar. - 2019. Mar. Scale development of Korea version IPIP-NEO-300
+*  2019. Mar. - 2020. Sat. Short version of Korea version IPIP-NEO-120 using IRT
+*  2020. Sat. - Present. Short version of Korea version IPIP-NEO-50 using IRT
 
 
