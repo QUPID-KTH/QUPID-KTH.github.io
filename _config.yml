@@ -1,5 +1,5 @@
 # Jekyll Defaults
-title: TH KIM 
+title: Taehwa, KIM  
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -19,3 +19,4 @@ navigation:
   url: /archives/
 - text: Tags
   url: /tags/
+https://github.com/QUPID-KTH/QUPID-KTH.github.io/blob/master/_config.yml
