@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-## Wecome to my pages! 
-
-Hi, I'm Taehwa Kim
+================
+## Welcome to my Github Pages! 
+================
+Hi, I'm **Taehwa Kim**. 
 
 
 
