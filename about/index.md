@@ -5,7 +5,7 @@ title: CV
 
 ## Personal info
 
-* Name: Taehwa Kim (Republic of Korea)
+* Name: **Taehwa Kim (Republic of Korea)** 
 * E-mail: aikthia@skku.edu
 * Homepage: Nothing
 
