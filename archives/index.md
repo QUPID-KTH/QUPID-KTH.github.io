@@ -13,7 +13,7 @@ title: archives
 * Longitudinal Data
   
   
-## **Research Expersience**
+## **Research Experience**
 *  2020.Sat. - Present. Short version of Korea version IPIP-NEO-50 using IRT
 *  2019.Mar. - 2020.Sat. Short version of Korea version IPIP-NEO-120 using IRT
 *  2017.Mar. - 2019.Mar. Scale development of Korea version IPIP-NEO-300
