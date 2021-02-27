@@ -2,7 +2,8 @@
 layout: default
 title: archives
 ---
-
+  
+  
 ## Main Interests
 * Scale development in Personality 
 * Validity test
@@ -10,7 +11,8 @@ title: archives
 * IRT(Item response theory) ; GPCM, GRM
 * Individual difference
 * Longitudinal Data
-
+  
+  
 ## Research Expersience
 *  2020.Sat. - Present. Short version of Korea version IPIP-NEO-50 using IRT
 *  2019.Mar. - 2020.Sat. Short version of Korea version IPIP-NEO-120 using IRT
@@ -18,7 +20,8 @@ title: archives
 *  2017.Sep. - 2018.Sep. Mid-Career Researchers, National Research Roundation of Korea. 
 *  2017.Aug.   Participated in Mplus Program Workshop in Johns Hopkins University, U.S.A. 
 *  2016.Sep. - 2016.Nom. Panel data using Logitudinal Mediation analysis
-
+  
+  
 ## Presentations 
 * Kim, T. H., & Kwan, S. B. (2018). Development and Validation of the Korean Version of International Personality Item Pool (IPIP-NEO): Based Measure of the Five-Factor Model. 2018 ISSSM Japan.
 * Kim, T. H., & Ju, Y. S. (2018). Development and Validation of Korean Version IPIP-NEO Short Form. 2018 APS USA.
