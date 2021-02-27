@@ -1,8 +1,11 @@
  
- -----
- -----
- 
- ## Main Interests
+---
+layout: default
+title: CV 
+---
+
+
+## Main Interests
 * Scale development in Personality 
 * Validity test
 * CTT(Classical test theory) ; Factor analysis 
