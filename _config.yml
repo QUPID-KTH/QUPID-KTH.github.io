@@ -16,6 +16,8 @@ navigation:
 - text: CV
   url: /about/
 - text: Research
+  url: /research/
+- text: Archives
   url: /archives/
 - text: Tags
   url: /tags/
