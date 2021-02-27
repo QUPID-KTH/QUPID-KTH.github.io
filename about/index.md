@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About blueface
+title: CV 
 ---
 
 ## Personal info
