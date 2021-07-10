@@ -23,6 +23,7 @@ title: archives
   
   
 ## **Presentations** 
+* Kim, T. H., Kim, M. J., & Jahngs, S. M. (2021). Reliability, Validity and Factor Structure of K-IPIP-NEO for Assessing Personality Traits. 2021 APS USA.
 * Kim, T. H., & Kwan, S. B. (2018). Development and Validation of the Korean Version of International Personality Item Pool (IPIP-NEO): Based Measure of the Five-Factor Model. 2018 ISSSM Japan.
 * Kim, T. H., & Ju, Y. S. (2018). Development and Validation of Korean Version IPIP-NEO Short Form. 2018 APS USA.
 * Kim, T. H. & Lee, G, H. (2017). The Effect of Service Assistance on School Adaptation in Local Children's Centers: Focusing on the Effect of Adjustment of Child Deficiency Index, Presented Grand Prize for Research Contest, National Center for the Rights of the Child. 
