@@ -25,7 +25,7 @@ title: CV
 * 2021.Aug. - **Present**: Cohort Research & Data Statistician(Epidemiology), Preventive medicine, Hanyang University, South Korea.
 * 2017.Mar. - **Present**: Private Tutoring for Recearch Methodology and Data Analysis
 * 2013.Mar. - 2014.Mar. Student Intern at KCVA(Korean Crime Victims Suppot Association, Daegu, South Korea.
-* 2012.Jul. - 2012.Aug. International Student of Study Abroad Program(SAP), Algoma University, Canada
+* 2012.Jul. -  2012.Aug. International Student of Study Abroad Program(SAP), Algoma University, Canada
 * 2011.Feb. - 2012.Feb. Student Intern at KMU Saemirae Psychogical Health Research, Daegu, South Korea
 
   
