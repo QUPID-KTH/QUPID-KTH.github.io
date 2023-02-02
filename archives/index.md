@@ -31,7 +31,7 @@ title: archives
 *  2016.Sep. - 2016.Nov. Panel data using Logitudinal Mediation analysis.
 
 ## **Publications** 
-* ***Published, 2023.Jan.*** Jang, Y. Y., Kim, T. H., Choi, Y. S., Ahn, K. H., Choi, B. Y., & Park, B. Y. (2023). Association between obesity and cancer risk in HIV-infected Asians. 
+* Jang, Y. Y., Kim, T. H., Choi, Y. S., Ahn, K. H., Choi, B. Y., & Park, B. Y. (2023). Association between obesity and cancer risk in HIV-infected Asians. ***Published, 2023.Jan.***
 * Jang, Y. Y., Kim, T. H., Kim, Brian H. S., & & Park, B. Y. (2022). Association between Obesity Indexes and Thyroid Cancer Risk in Korean Women: Nested Case–Control Study. Cancers, 14(19), 4712. https://doi.org/10.3390/cancers14194712
   
 ## **Presentations** 
