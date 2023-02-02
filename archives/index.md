@@ -18,6 +18,7 @@ title: archives
 *  2023.Jan. - ***Present***. 3th Strategy for cancer control targeting high-risk group in patients with human immunodeficiency virus(HIV) infection: Based on cancer burden and risk factor, National Cancer Center(NCC), Republic of Korea.
 *  2022.Mar. - ***Present***. Development of estimation model the number of people living with undiagnosed HIV infection in Korea(2th), National Research Roundation of Korea, Republic of Korea. 
 *  2020.Sap. - ***Present***. [PH.D Study] Short version of Korea version IPIP-NEO-50 using IRT.
+---
 *  2022.Jan. - 2022.Dec. 2th Strategy for cancer control targeting high-risk group in patients with human immunodeficiency virus(HIV) infection: Based on cancer burden and risk factors, National Cancer Center(NCC), Republic of Korea.
 *  2022.Jan. - 2022.Dec. 17th The Korean Cohort Study in HIV/AIDS patients, National institute of Health(NIH), Republic of Korea.
 *  2021.Sep. - 2022.Feb. 1th Development of estimation model the number of people living with undiagnosed HIV infection in Korea, National Research Roundation of Korea, Republic of Korea.
