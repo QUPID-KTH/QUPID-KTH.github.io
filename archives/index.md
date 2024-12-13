@@ -14,10 +14,11 @@ title: archives
   
   
 ## **Research Experience**
-*  2023.Mar. - ***Present***. 18th the Korean Cohort Study in HIV/AIDS patients, National institute of Health(NIH), Republic of Korea.
-*  2023.Jan. - ***Present***. 3th Strategy for cancer control targeting high-risk group in patients with human immunodeficiency virus(HIV) infection: Based on cancer burden and risk factor, National Cancer Center(NCC), Republic of Korea.
-*  2022.Mar. - ***Present***. Development of estimation model the number of people living with undiagnosed HIV infection in Korea(2th), National Research Roundation of Korea, Republic of Korea. 
-*  2020.Sap. - ***Present***. [PH.D Study] Short version of Korea version IPIP-NEO-50 using IRT.
+*  2023.Mar. - 2024.Jan. 18th the Korean Cohort Study in HIV/AIDS patients, National institute of Health(NIH), Republic of Korea.
+*  2023.Jan. - 2024.Jan. 3th Strategy for cancer control targeting high-risk group in patients with human immunodeficiency virus(HIV) infection: Based on cancer burden and risk factor, National Cancer Center(NCC), Republic of Korea.
+*  2022.Mar. - 2024.Jan. Development of estimation model the number of people living with undiagnosed HIV infection in Korea(2th), National Research Roundation of Korea, Republic of Korea. 
+*  2020.Sap. - **Present**. [PH.D Study] Short version of Korea version IPIP-NEO-50 using IRT.
+
 ---
 *  2022.Jan. - 2022.Dec. 2th Strategy for cancer control targeting high-risk group in patients with human immunodeficiency virus(HIV) infection: Based on cancer burden and risk factors, National Cancer Center(NCC), Republic of Korea.
 *  2022.Jan. - 2022.Dec. 17th The Korean Cohort Study in HIV/AIDS patients, National institute of Health(NIH), Republic of Korea.
@@ -32,7 +33,8 @@ title: archives
 *  2016.Sep. - 2016.Nov. Panel data using Logitudinal Mediation analysis.
 
 ## **Publications** 
-* Jang, Y. Y., Kim, T. H., Choi, Y. S., Ahn, K. H., Choi, B. Y., & Park, B. Y. (2023). Association between obesity and cancer risk in HIV-infected Asians. ***Published, 2023.Jan.***
+* Jang, Y. Y., Kim, T. H., Choi, Y. S., Ahn, K. H., Choi, B. Y., & Park, B. Y. (2023). Association between obesity and cancer risk in HIV-infected Asians. AIDS, 10-1097.
+* Jang, Y., Kim, T., Kim, B. H., Kim, J. H., Seong, H., Kim, Y. J., & Park, B. (2023). Economic Burden of Cancer for the First Five Years after Cancer Diagnosis in Patients with Human Immunodeficiency Virus in Korea. Journal of Cancer Prevention, 28(2), 53.
 * Jang, Y. Y., Kim, T. H., Kim, Brian H. S., & & Park, B. Y. (2022). Association between Obesity Indexes and Thyroid Cancer Risk in Korean Women: Nested Case–Control Study. Cancers, 14(19), 4712. https://doi.org/10.3390/cancers14194712
   
 ## **Presentations** 
