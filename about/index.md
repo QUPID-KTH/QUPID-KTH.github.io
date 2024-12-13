@@ -22,8 +22,8 @@ title: CV
   
   
 ## **Career(Working Experience)**
-* 2021.Aug. - 2024.Jan.: Cohort Research & Data Statistician(Epidemiology), Preventive medicine, Hanyang University, Republic of Korea.
-* 2017.Mar. - 2024.Jan.: Private Tutoring for Recearch Methodology and Data Analysis
+* 2021.Aug. - 2024.Jan. Cohort Research & Data Statistician(Epidemiology), Preventive medicine, Hanyang University, Republic of Korea.
+* 2017.Mar. - **Present** Private Tutoring for Recearch Methodology and Data Analysis
 * 2013.Mar. - 2014.Mar. Student Intern at KCVA(Korean Crime Victims Suppot Association, Daegu, Republic of Korea.
 * 2012.Jul. - 2012.Aug. International Student of Study Abroad Program(SAP), Algoma University, Canada
 * 2011.Feb. - 2012.Feb. Student Intern at KMU Saemirae Psychogical Health Research, Daegu, Republic of Korea.
