@@ -31,7 +31,7 @@ title: archives
 *  2016.Sep. - 2016.Nov. Panel data using Logitudinal Mediation analysis.
 
 ## **Publications** 
-* Park, B., Jang, Y., Kim, T., Choi, Y., Ahn, K. H., Kim, J. H., ... & Kim, S. I. (2024). Health screening disparities in people living with HIV; A nationwide organized screening setting. Journal of Infection and Public Health, 17(12), 102567.
+* Park, B. Y., Jang, Y. Y., Kim, T. H., Choi, Y. s., Ahn, K. H., Kim, J. H., ... & Kim, S. I. (2024). Health screening disparities in people living with HIV; A nationwide organized screening setting. Journal of Infection and Public Health, 17(12), 102567.
 * Jang, Y. Y., Kim, T. H., Choi, Y. S., Ahn, K. H., Choi, B. Y., & Park, B. Y. (2023). Association between obesity and cancer risk in HIV-infected Asians. AIDS, 10-1097.
 * Jang, Y., Kim, T., Kim, B. H., Kim, J. H., Seong, H., Kim, Y. J., & Park, B. (2023). Economic Burden of Cancer for the First Five Years after Cancer Diagnosis in Patients with Human Immunodeficiency Virus in Korea. Journal of Cancer Prevention, 28(2), 53.
 * Jang, Y. Y., Kim, T. H., Kim, Brian H. S., & & Park, B. Y. (2022). Association between Obesity Indexes and Thyroid Cancer Risk in Korean Women: Nested Case–Control Study. Cancers, 14(19), 4712. https://doi.org/10.3390/cancers14194712
